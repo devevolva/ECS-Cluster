@@ -1,0 +1,3 @@
+terraform.tfstate*
+.terraform/*
+ddb_tf_remote_state_policy.json
